@@ -1,8 +1,8 @@
-# 🚀 HackerRank C++ Journey
+# 🚀  C++ Journey
 
 > *"Every problem solved is one step closer to becoming a better programmer."*
 
-A curated collection of my **HackerRank C++ solutions**, documenting my journey of learning programming, strengthening problem-solving skills, and building a solid foundation in modern C++.
+A curated collection of my ** C++ solutions**, documenting my journey of learning programming, strengthening problem-solving skills, and building a solid foundation in modern C++.
 
 ## 📖 About
 
@@ -69,7 +69,7 @@ Rather than simply storing solutions, this repository reflects my continuous eff
 ## 📂 Repository Structure
 
 ```text
-HackerRank-Cpp-Preparation/
+-Cpp-Preparation=all/
 │
 ├── Say_Hello_World_With_C.cpp
 ├── Basic_Data_Types.cpp
@@ -140,7 +140,7 @@ This repository is more than a collection of solutions. It represents:
 
 🔗 GitHub: https://github.com/Thasin-Mahmud-Rifat-Bhuiyan
 
-🏆 Platform: HackerRank
+🏆 Platform: all
 
 ---
 
